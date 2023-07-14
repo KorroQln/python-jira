@@ -1,7 +1,7 @@
 from jira import JIRA
 
 jira_connection = JIRA(
-    basic_auth=('hazim.aqlan97@gmail.com', 'ATATT3xFfGF0_mkRLmWZ5tDpDJp5H1oMl_QGCeBFUchJTVU0LkhbRCTwlmYMVkfJxExUsVF7tqsmmnAiNzzeuUzsL7NVwQTdCWsmd9j-5HG-o0Mc6fnhI_kw8onngNPIR2HNz6MF64ITSrKqUqHyIpNegoe71ptTymbQpib7CQcS50opsxgQ8Rg=3563A69B'),
+    basic_auth=('abc@mail.com', 'xxx'),
     server="https://korroqln.atlassian.net/"
 )
 
