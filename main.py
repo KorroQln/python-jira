@@ -2,7 +2,7 @@ from jira import JIRA
 
 jira_connection = JIRA(
     basic_auth=('abc@mail.com', 'xxx'),
-    server="https://korroqln.atlassian.net/"
+    server="https://abc.atlassian.net/"
 )
 
 # issue_dict = {
